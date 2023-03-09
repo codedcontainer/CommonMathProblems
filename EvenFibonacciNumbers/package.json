@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "save-dev": "^0.0.1-security"
+  },
+  "scripts":{
+    "test": "jest"
+  },  
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
